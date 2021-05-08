@@ -1,14 +1,17 @@
 # BloggingApp-Flask
-A simple blogging application created using flask and with MySql 
+A simple end to end blogging application created using **flask** and **MySql**.
 
-Steps to run the project: 
+Users can register and login to website to write a blog. Viewers without login also.
 
-1. Create a database called **flaskapp** in *MySql*
-2. create tables in mysql tables code is in database.txt file
-3. Change *MySql* password in **app.py** file line number **13**
-4. Open command prompt and navigate to project folder and then type
-> python app.py
+## Set up
+- Create a database named *flaskapp* in **MySql**
+- Create tables named **users** and **articles**
+- Change *MySql* credentials in ```app.py``` file (line : 13)
+- Open command prompt and navigate to project folder and then run ***app.py***
 
-
-you can see that project is running on localhoat port number 5000, 
-you can acess through **localhost:5000**
+  ```bash
+  python app.py
+  ```
+  
+ 
+- you can see that project is running on localhoat port number 5000, can acess through ```localhost:5000```

@@ -15,3 +15,34 @@ Users can register and login to website to write a blog. Viewers without login a
   
  
 - you can see that project is running on localhoat port number 5000, can acess through ```localhost:5000```
+
+## Database
+All tables codes are written in ```database.txt``` file.
+
+class diagram
+
+![database](https://github.com/manideep03/BloggingApp-Flask/blob/main/imgs/database_class.png)
+
+
+## Results
+
+Home page
+
+![Home](https://github.com/manideep03/BloggingApp-Flask/blob/main/imgs/home.png)
+
+Register page
+
+![register](https://github.com/manideep03/BloggingApp-Flask/blob/main/imgs/register.png)
+
+Login page
+
+![login](https://github.com/manideep03/BloggingApp-Flask/blob/main/imgs/login.png)
+
+User Dashboard
+![dashboard](https://github.com/manideep03/BloggingApp-Flask/blob/main/imgs/dashboard.png)
+
+Add blog
+![add_article](https://github.com/manideep03/BloggingApp-Flask/blob/main/imgs/add_blog.png)
+
+All Blogs 
+![all_blogs](https://github.com/manideep03/BloggingApp-Flask/blob/main/imgs/all_blogs.png)
